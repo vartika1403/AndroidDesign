@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_height="wrap_content">
+    <include
+        android:id="@+id/seller_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/details_card_view"
+        />
+    <include
+        android:id="@+id/loyality_card_details"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/details_card_view"
+        />
+    <include
+        android:id="@+id/village_name"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/details_card_view"
+        />
+    <include
+        android:id="@+id/gross_weight_detail"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/details_card_view"
+        />
+</androidx.appcompat.widget.LinearLayoutCompat>

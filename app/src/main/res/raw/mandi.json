@@ -1,0 +1,63 @@
+{
+  "mandi": {
+    "registered_loyality_index": "1.12",
+    "unregistered_loyality_index": "0.98",
+    "villages": [
+      {
+        "name": "Khimsar",
+        "price": "120.08"
+      },
+      {
+        "name": "Malana",
+        "price": "125.67"
+      },
+      {
+        "name": "Chitkol",
+        "price": "210.34"
+      },
+      {
+        "name": "Poovar",
+        "price": "140.12"
+      },
+      {
+        "name": "Khimsar",
+        "price": "120.08"
+      },
+      {
+        "name": "Bagsara",
+        "price": "110.18"
+      },
+      {
+        "name": "Gahmar",
+        "price": "90.29"
+      }
+    ],
+    "sellers": [
+        {
+          "name": "Ramu",
+          "id": 1,
+          "loyalty_card_id": "S18972"
+        },
+        {
+          "name": "Nakul",
+          "id": 2,
+          "loyalty_card_id": "S18973"
+        },
+        {
+          "name": "Chitraj",
+          "id": 3,
+          "loyalty_card_id":""
+        },
+        {
+          "name": "Rajesh",
+          "id": 4,
+          "loyalty_card_id": ""
+        },
+        {
+          "name": "Manoj",
+          "id": 5,
+          "loyalty_card_id": "S18974"
+        }
+      ]
+  }
+}
